@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class HexAndBinaryDecoder {
     public static void main(String args[]) {
+        //Adding comment for testing
 
         Scanner input = new Scanner(System.in);
 
